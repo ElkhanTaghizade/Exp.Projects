@@ -1,0 +1,8 @@
+C:\Yazılım C\TERMINAL\TERMINAL\bin\Debug\TERMINAL.exe.config
+C:\Yazılım C\TERMINAL\TERMINAL\bin\Debug\TERMINAL.exe
+C:\Yazılım C\TERMINAL\TERMINAL\bin\Debug\TERMINAL.pdb
+C:\Yazılım C\TERMINAL\TERMINAL\obj\Debug\TERMINAL.csproj.AssemblyReference.cache
+C:\Yazılım C\TERMINAL\TERMINAL\obj\Debug\TERMINAL.csproj.SuggestedBindingRedirects.cache
+C:\Yazılım C\TERMINAL\TERMINAL\obj\Debug\TERMINAL.csproj.CoreCompileInputs.cache
+C:\Yazılım C\TERMINAL\TERMINAL\obj\Debug\TERMINAL.exe
+C:\Yazılım C\TERMINAL\TERMINAL\obj\Debug\TERMINAL.pdb

@@ -1,0 +1,8 @@
+C:\Yazılım C\Project111\bin\Debug\Project111.exe.config
+C:\Yazılım C\Project111\bin\Debug\Project111.exe
+C:\Yazılım C\Project111\bin\Debug\Project111.pdb
+C:\Yazılım C\Project111\obj\Debug\Project111.csproj.AssemblyReference.cache
+C:\Yazılım C\Project111\obj\Debug\Project111.csproj.SuggestedBindingRedirects.cache
+C:\Yazılım C\Project111\obj\Debug\Project111.csproj.CoreCompileInputs.cache
+C:\Yazılım C\Project111\obj\Debug\Project111.exe
+C:\Yazılım C\Project111\obj\Debug\Project111.pdb
