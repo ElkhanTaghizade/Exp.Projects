@@ -1,0 +1,8 @@
+C:\Yazılım C\Experience2\bin\Debug\Experience2.exe.config
+C:\Yazılım C\Experience2\bin\Debug\Experience2.exe
+C:\Yazılım C\Experience2\bin\Debug\Experience2.pdb
+C:\Yazılım C\Experience2\obj\Debug\Experience2.csproj.AssemblyReference.cache
+C:\Yazılım C\Experience2\obj\Debug\Experience2.csproj.SuggestedBindingRedirects.cache
+C:\Yazılım C\Experience2\obj\Debug\Experience2.csproj.CoreCompileInputs.cache
+C:\Yazılım C\Experience2\obj\Debug\Experience2.exe
+C:\Yazılım C\Experience2\obj\Debug\Experience2.pdb

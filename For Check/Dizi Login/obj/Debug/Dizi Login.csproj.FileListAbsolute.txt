@@ -1,0 +1,8 @@
+C:\Yazılım C\Dizi Login\Dizi Login\bin\Debug\Dizi Login.exe.config
+C:\Yazılım C\Dizi Login\Dizi Login\bin\Debug\Dizi Login.exe
+C:\Yazılım C\Dizi Login\Dizi Login\bin\Debug\Dizi Login.pdb
+C:\Yazılım C\Dizi Login\Dizi Login\obj\Debug\Dizi Login.csproj.AssemblyReference.cache
+C:\Yazılım C\Dizi Login\Dizi Login\obj\Debug\Dizi Login.csproj.SuggestedBindingRedirects.cache
+C:\Yazılım C\Dizi Login\Dizi Login\obj\Debug\Dizi Login.csproj.CoreCompileInputs.cache
+C:\Yazılım C\Dizi Login\Dizi Login\obj\Debug\Dizi Login.exe
+C:\Yazılım C\Dizi Login\Dizi Login\obj\Debug\Dizi Login.pdb
