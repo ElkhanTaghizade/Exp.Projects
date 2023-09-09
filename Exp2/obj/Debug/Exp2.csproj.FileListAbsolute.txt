@@ -1,0 +1,8 @@
+C:\Yazılım C\Exp2\bin\Debug\Exp2.exe.config
+C:\Yazılım C\Exp2\bin\Debug\Exp2.exe
+C:\Yazılım C\Exp2\bin\Debug\Exp2.pdb
+C:\Yazılım C\Exp2\obj\Debug\Exp2.csproj.AssemblyReference.cache
+C:\Yazılım C\Exp2\obj\Debug\Exp2.csproj.SuggestedBindingRedirects.cache
+C:\Yazılım C\Exp2\obj\Debug\Exp2.csproj.CoreCompileInputs.cache
+C:\Yazılım C\Exp2\obj\Debug\Exp2.exe
+C:\Yazılım C\Exp2\obj\Debug\Exp2.pdb
