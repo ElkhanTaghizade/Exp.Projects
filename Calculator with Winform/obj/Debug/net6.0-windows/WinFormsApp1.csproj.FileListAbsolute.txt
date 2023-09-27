@@ -1,0 +1,16 @@
+C:\Yazılım C\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Yazılım C\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Yazılım C\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Yazılım C\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Yazılım C\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Yazılım C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Yazılım C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Yazılım C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yazılım C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Yazılım C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Yazılım C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Yazılım C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Yazılım C\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Yazılım C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Yazılım C\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Yazılım C\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
